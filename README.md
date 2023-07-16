@@ -1,0 +1,5 @@
+# University project
+
+My previous course work was devoted to various optimizers, such as SGD, Adam, and so on. These optimizers are based on strong prerequisites that are not always fulfilled in the real world. Having studied the applications of these methods, I learned that despite the violation of many rather important prerequisites in neural network optimization problems, these optimizers are still used there, and the results are quite good. 
+
+After that, I became interested in Deep Learning. This area is quite complex and it is less interpretable than classical Machine Learning algorithms. Therefore, in this study, I decided to check in which situations the use of neural networks is preferable, and sometimes even the only option. As a result, I gave several examples (embeddings, NLP tasks), justifying the conclusions both theoretically and by examples, including coding. In the end, I wrote some recommendations on how to simplify the task of finding optimal hyperparameters in optimization problems involving Deep Learning.
